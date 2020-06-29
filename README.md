@@ -1,1 +1,1 @@
-# certificado da Imersão Gamedev JavaScript
+# Certificado da Imersão Gamedev JavaScript
